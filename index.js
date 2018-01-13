@@ -28,5 +28,3 @@ function funkyFunction() {
 var theFunk = funkyFunction();
 theFunk = theFunk();
 console.log("theFunk = "+ theFunk);
-console.log("theFunk() = "+ theFunk())
-
